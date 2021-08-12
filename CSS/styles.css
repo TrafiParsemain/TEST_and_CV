@@ -1,0 +1,61 @@
+
+/**************** TAGS ********************/
+body {
+  background-color: #F1E9E5;
+  text-align: center;
+  align-content: center;
+}
+ul {
+    width: 20%;
+    margin: auto;
+}
+
+ol {
+    width: 20%;
+    margin: auto;
+}
+
+table{
+margin:auto;
+}
+
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  width: 10%;
+  height: 0px;
+  border-width: 7px;
+  border-radius: 50;
+  border-color: grey;
+}
+
+
+
+h1{
+ color: #66BFBF
+}
+h2{
+ color: #66BFBF
+}
+h3{
+ color: #66BFBF
+}
+h3:hover{
+ color: red
+}
+
+/******************CLASS******************/
+.INFO_TAB{
+  background-color: #CDBBA7;
+}
+
+.songs{
+  font-style: oblique;
+}
+
+/******************ID*********************/
+
+
+ #bali{
+   border-radius: 100%;
+ }
